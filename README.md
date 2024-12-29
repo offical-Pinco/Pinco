@@ -1,6 +1,6 @@
-# <a href="https://tinyurl.com/3kj2yj2s"">Pinco.com</a>
+# <a href="https://tinyurl.com/3kj2yj2s">Pinco.com</a>
 
-# <a href="https://tinyurl.com/3kj2yj2s"">অ্যাক্সেস করতে এখানে ক্লিক করুন</a>
+# <a href="https://tinyurl.com/3kj2yj2s">অ্যাক্সেস করতে এখানে ক্লিক করুন</a>
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
