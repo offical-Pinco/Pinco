@@ -8,7 +8,7 @@
 <body>
 
 <div style=<text-align: center;">
-<a href="https://tinyurl.com/3kj2yj2s" title="Pinco"> src="https://static.wixstatic.com/media/2a8103_44a9e01ec3b4451cad8859f6fe231b70~mv2.webp<img" title="Pinco" alt="Pinco"></a></div>
+<a href="https://tinyurl.com/3kj2yj2s" title="Pinco"><img src="https://static.wixstatic.com/media/2a8103_44a9e01ec3b4451cad8859f6fe231b70~mv2.webp" title="Pinco" alt="Pinco"></a></div>
 <div style=<text-align: center;">
 <a href="https://bit.ly/bet-brasil">
 <img src="https://www.pinclipart.com/picdir/big/545-5456447_casino-vector-clipart.png" />
